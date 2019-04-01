@@ -44,6 +44,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DesignPatterns\Factory\Circle.cs" />
+    <Compile Include="DesignPatterns\Factory\Rectangle.cs" />
+    <Compile Include="DesignPatterns\Factory\Shape.cs" />
+    <Compile Include="DesignPatterns\Factory\ShapeFactory.cs" />
+    <Compile Include="DesignPatterns\Factory\Square.cs" />
     <Compile Include="DesignPatterns\Singleton\Singleton.cs" />
     <Compile Include="DesignPatterns\Singleton\SingletonDoubleLock.cs" />
     <Compile Include="main.cs" />
